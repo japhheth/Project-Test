@@ -1,0 +1,90 @@
+
+@media only screen and (max-width: 767px){
+
+    .links{
+        flex-direction: column;
+    }
+    .flex-div{
+        display: none;
+    }
+    .bold{
+        font-size: 30px;
+    }
+
+    .first-fluid{
+        height: fit-content;
+    }
+    .intro{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .description-of-helgo{
+        text-align: center;
+        margin-left: 0 !important;
+    }
+
+    .img-top-space{
+        margin-top: 20px;
+    }
+    ul > li {
+        list-style-type: none;
+    }
+    .flex-2{
+        flex-direction: column;
+    }
+
+    .services{
+        border-right: none;
+        border-bottom: 2px solid rgb(228, 228, 228);
+        margin-bottom: 10px;
+    }
+    .row-img, .row-img-1{
+        height: auto;
+    }
+    .top-space{
+        margin-top: 20px;
+    }
+
+    .space, .space-1{
+        margin-top: 20px;
+    }
+
+    .grid-row{
+        text-align: center;
+    }
+
+    .first-price{
+        right: 0;
+    }
+    .second-price, .third-price{
+        left: 0;
+    }
+
+    .eight-fluid{
+        height: fit-content;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .footer-flex{
+        flex-direction: column;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+    .second-price, .third-price{
+        left: 0;
+        margin-top: 10px;
+    }
+    .first-price{
+        right: 0;
+    }
+    .black-bg{
+        color: #000;
+        font-size: 20px;
+    }
+    .eight-fluid{
+        padding-top: 47px !important;
+    }
+}

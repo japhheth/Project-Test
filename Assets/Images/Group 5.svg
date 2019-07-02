@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.58" height="22.375" viewBox="0 0 22.58 22.375">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#fff;stroke-width:3px}.cls-3,.cls-4{stroke:none}.cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_5" data-name="Group 5" transform="translate(-824.215 326.035)">
+        <g id="Path_4" class="cls-1" data-name="Path 4">
+            <path d="M7.246 0A7.246 7.246 0 1 1 0 7.246 7.246 7.246 0 0 1 7.246 0z" class="cls-3" transform="rotate(-45 30.918 -1152.81)"/>
+            <path d="M7.246 3A4.25 4.25 0 0 0 3 7.246a4.25 4.25 0 0 0 4.246 4.246 4.25 4.25 0 0 0 4.246-4.246A4.25 4.25 0 0 0 7.246 3m0-3a7.246 7.246 0 1 1 0 14.492A7.246 7.246 0 0 1 7.246 0z" class="cls-4" transform="rotate(-45 30.918 -1152.81)"/>
+        </g>
+        <path id="Line_1" d="M0 0v9.564" class="cls-2" data-name="Line 1" transform="rotate(-45 43.491 -1168.47)"/>
+    </g>
+</svg>
